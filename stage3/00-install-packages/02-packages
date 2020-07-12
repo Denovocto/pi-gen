@@ -1,0 +1,7 @@
+sqlite3
+nodejs
+mosquitto
+mosquitto-clients
+python3-pyserial
+python3-paho-mqtt
+python3-sqlite3
