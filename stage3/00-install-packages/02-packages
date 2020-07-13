@@ -1,7 +1,7 @@
 sqlite3
+libsqlite3-dev
 nodejs
 mosquitto
 mosquitto-clients
-python3-pyserial
+python3-serial
 python3-paho-mqtt
-python3-sqlite3
